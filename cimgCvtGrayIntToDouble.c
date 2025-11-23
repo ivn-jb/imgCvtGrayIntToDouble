@@ -12,7 +12,7 @@ int compare_matrices(double *f_matrix, double *checker_matrix, int total) {
     for ( i = 0; i < total; i++) {
         double diff = f_matrix[i] - checker_matrix[i];
 
-        if (diff > 0) {
+        if (diff != 0) {
             printf("Mismatch at index %d: ASM = %lf | C = %lf\n", 
                    i, f_matrix[i], checker_matrix[i]);
             pass = 0;
