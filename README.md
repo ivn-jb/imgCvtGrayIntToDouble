@@ -19,6 +19,9 @@ It is also said that it is more important to use the right algorithm. From there
 <img width="468" height="975" alt="image" src="https://github.com/user-attachments/assets/37aaf109-16f9-44d8-8efb-7b12f0475744" />
 <img width="457" height="907" alt="image" src="https://github.com/user-attachments/assets/20b3227c-528e-4d71-9b2d-190eaa35f109" />
 
+**Video Demo Link:**
+https://drive.google.com/file/d/1mP3sBPfygTSJ5vcvETTQNIUHWlNTP7o1/view?usp=sharing
+
 **Sources:**
 - https://www.dspguide.com/ch28/5.htm
 - https://blogs.sw.siemens.com/embedded-software/2013/02/18/why-c-is-faster-than-assembly/
